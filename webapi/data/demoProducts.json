@@ -1,0 +1,37 @@
+[
+    { 
+        "name": "Sony TV-675", 
+        "short": "Lorem ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit", 
+        "desc": "Lorem speriores harum delectus voluptas tenetur rerum! Hic rem dignissimos quia natus qtem facilis quod maiores!", 
+        "price": 5755, 
+        "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg" 
+    },
+    { 
+        "name": "Samsung CT-567", 
+        "short": "Lorem ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit", 
+        "desc": "Lorem speriores harum delectus voluptas tenetur rerum! Hic rem dignissimos quia natus qtem facilis quod maiores!", 
+        "price": 5755, 
+        "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg"
+    },
+    { 
+        "name": "Dell V-964i", 
+        "short": "Lorem ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit", 
+        "desc": "Lorem speriores harum delectus voluptas tenetur rerum! Hic rem dignissimos quia natus qtem facilis quod maiores!", 
+        "price": 5755, 
+        "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg"
+    },
+    { 
+        "name": "Huewei G40", 
+        "short": "Lorem ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit", 
+        "desc": "Lorem speriores harum delectus voluptas tenetur rerum! Hic rem dignissimos quia natus qtem facilis quod maiores!", 
+        "price": 5755, 
+        "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg"
+    },
+    { 
+        "name": "Huewei G40", 
+        "short": "Lorem ipsum dolor sit ametdolor  dolor sit amet sit amet consectetur adipisicing elit. Id fugit", 
+        "desc": "Lorem speriores harum delectus voluptas tenetur rerum! Hic rem dignissimos quia natus qtem facilis quod maiores!", 
+        "price": 5755, 
+        "image": "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Products/14.jpg" 
+    }
+]
